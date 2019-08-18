@@ -1,0 +1,15 @@
+name: MotivePVPTest
+version: 1.0-SNAPSHOT
+main: me.roareeh.motivepvptest.MotivePVPTest
+api-version: 1.13
+authors: [Roareeh]
+description: Test Plugin For MotivePVP
+commands:
+  pay:
+    description: Pay another player from your balance
+  bal:
+    description: Tells you how much money another player has
+  eco:
+    description: Admin commands
+  withdraw:
+    description: Withdraw money into a bank note
